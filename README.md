@@ -1,4 +1,4 @@
-# ImersaoIA
+# ImersaoIA - Atendimento de delivery
 
 Esse chatbot, é um atendente de delivery para pizzaria.
 
